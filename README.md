@@ -84,6 +84,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Software Suggest](https://www.softwaresuggest.com/) - Promote software solutions globally.
 - [CrozDesk](https://crozdesk.com/) - SaaS reviews and rankings.
 - [SaaS Genius](https://saasgenius.com/) - Discover and compare SaaS tools.
+- [Software Select](https://softwareselecthq.com/) - Discover SAAS tools.
 
 ---
 
