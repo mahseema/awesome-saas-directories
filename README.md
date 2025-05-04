@@ -5,6 +5,8 @@ A curated list of top best directories and platforms to launch and promote your 
 ---
 
 ## 🌟 General Launch Platforms
+
+- [Altern](https://altern.ai) - Launch Your AI Tools
 - [Product Hunt](https://www.producthunt.com/) - The go-to platform to launch and discover new products.
 - [G2](https://www.g2.com/) - Software reviews to build credibility and reach businesses.
 - [Capterra](https://www.capterra.com/) - Comprehensive software listing and reviews.
