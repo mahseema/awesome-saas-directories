@@ -39,6 +39,7 @@ A curated list of top best directories and platforms to launch and promote your 
 A More Complete List of AI Directories are available on **[best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories)**
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
+- [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
 
