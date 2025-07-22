@@ -31,6 +31,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Launching Next](https://www.launchingnext.com/) - List your new startup for early adopters.
 - [SideProjectors](https://www.sideprojectors.com/) - A hub for SaaS side projects.
 - [IndieProducts.io](https://www.indieproducts.io/) - A directory for Indie products, Solopreneurs and Buildinpublic makers.
+- [PeerPush](https://peerpush.net/) - Build in Public, Discover & Share Innovative Products
 
 ---
 
