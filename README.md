@@ -39,6 +39,7 @@ A curated list of top best directories and platforms to launch and promote your 
 
 A More Complete List of AI Directories are available on **[best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories)**
 
+- [300 AI Directories](https://300aidirectories.com/) – Submit your SaaS or AI tool to 300+ curated directories to get backlinks, traffic, and SEO boost.
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
