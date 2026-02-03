@@ -5,6 +5,8 @@ A curated list of top best directories and platforms to launch and promote your 
 ---
 
 ## 🌟 General Launch Platforms
+
+- [Altern](https://altern.ai) - Launch Your AI Tools
 - [Product Hunt](https://www.producthunt.com/) - The go-to platform to launch and discover new products.
 - [G2](https://www.g2.com/) - Software reviews to build credibility and reach businesses.
 - [Capterra](https://www.capterra.com/) - Comprehensive software listing and reviews.
@@ -18,6 +20,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [SaaS Browser](https://saasbrowser.com/) - Comprehensive SaaS directory with technology, country, and category filters.
+- [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
 
 ---
 
@@ -29,6 +32,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Launching Next](https://www.launchingnext.com/) - List your new startup for early adopters.
 - [SideProjectors](https://www.sideprojectors.com/) - A hub for SaaS side projects.
 - [IndieProducts.io](https://www.indieproducts.io/) - A directory for Indie products, Solopreneurs and Buildinpublic makers.
+- [PeerPush](https://peerpush.net/) - Build in Public, Discover & Share Innovative Products
 
 ---
 
@@ -37,6 +41,7 @@ A curated list of top best directories and platforms to launch and promote your 
 A More Complete List of AI Directories are available on **[best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories)**
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
+- [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
 
@@ -85,6 +90,8 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Software Suggest](https://www.softwaresuggest.com/) - Promote software solutions globally.
 - [CrozDesk](https://crozdesk.com/) - SaaS reviews and rankings.
 - [SaaS Genius](https://saasgenius.com/) - Discover and compare SaaS tools.
+- [Open SaaS Directory](https://opensaas.directory/) - Open source and self-hosted SaaS alternatives.
+- [Software Select](https://softwareselecthq.com/) - Discover SAAS tools.
 
 ---
 
@@ -97,6 +104,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [All Top Startups](https://alltopstartups.com/) - Resources for young entrepreneurs.
 - [AppRadar](https://appradar.com/) - SaaS tools for app marketing.
 - [BuiltWith](https://builtwith.com/) - Discover SaaS products used by websites.
+- [ConfettiSaaS](https://confettisaas.com/) - Discover Projects that Sparkle with Confetti
 
 ---
 
