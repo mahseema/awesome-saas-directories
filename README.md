@@ -43,6 +43,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
+- [AIChief](https://aichief.com) - World's Largest & Best AI Tools Directory. 100% Brand Safe with No NSFW Tools
 
 
 ---
