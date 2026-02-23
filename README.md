@@ -110,3 +110,8 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 
 ### Contributions Welcome!
 Have more platforms to add? Feel free to suggest or contribute to make this list even more **awesome**! 🚀
+
+
+## Specialized SaaS Directories
+
+- [IndieStack](https://indiestack.fly.dev/) - A curated directory of indie-built SaaS alternatives to popular software.
