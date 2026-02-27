@@ -12,7 +12,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Capterra](https://www.capterra.com/) - Comprehensive software listing and reviews.
 - [GetApp](https://www.getapp.com/) - Discover and compare software tools.
 - [Trustpilot](https://www.trustpilot.com/) - Collect customer reviews to establish trust.
-
+- [Launching Next](https://www.launchingnext.com/) - Submit your startup and get featured to early adopters.
 ---
 
 ## 🏅 Specialized SaaS Directories
@@ -20,7 +20,8 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
-
+- [FinancesOnline](https://financesonline.com/) - B2B software reviews with 2.5M monthly readers.
+- [SelectHub](https://www.selecthub.com/) - Enterprise software comparison and selection platform.
 ---
 
 ## 🥳 Startup and Maker Communities
@@ -32,7 +33,8 @@ A curated list of top best directories and platforms to launch and promote your 
 - [SideProjectors](https://www.sideprojectors.com/) - A hub for SaaS side projects.
 - [IndieProducts.io](https://www.indieproducts.io/) - A directory for Indie products, Solopreneurs and Buildinpublic makers.
 - [PeerPush](https://peerpush.net/) - Build in Public, Discover & Share Innovative Products
-
+- [DevHunt](https://devhunt.org/) - Developer-focused product launches via GitHub OAuth.
+- [MicroLaunch](https://microlaunch.net/) - Launch your micro-SaaS to a targeted audience.
 ---
 
 ## 🤖 AI Directories
@@ -44,7 +46,8 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
 - [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
-
+- [TopAI.tools](https://topai.tools) - Curated directory of AI tools with reviews and comparisons.
+- [AI Tool Hunt](https://aitoolhunt.com) - Free directory to find the best AI tools for your needs.
 
 ---
 
@@ -91,7 +94,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [CrozDesk](https://crozdesk.com/) - SaaS reviews and rankings.
 - [SaaS Genius](https://saasgenius.com/) - Discover and compare SaaS tools.
 - [Open SaaS Directory](https://opensaas.directory/) - Open source and self-hosted SaaS alternatives.
-- [Software Select](https://softwareselecthq.com/) - Discover SAAS tools.
+- [TrustRadius](https://www.trustradius.com/) - Verified B2B software reviews from real users.- [Software Select](https://softwareselecthq.com/) - Discover SAAS tools.
 
 ---
 
