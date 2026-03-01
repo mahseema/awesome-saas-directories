@@ -32,6 +32,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [SideProjectors](https://www.sideprojectors.com/) - A hub for SaaS side projects.
 - [IndieProducts.io](https://www.indieproducts.io/) - A directory for Indie products, Solopreneurs and Buildinpublic makers.
 - [PeerPush](https://peerpush.net/) - Build in Public, Discover & Share Innovative Products
+- [LaunchBoard](https://launchboard.dev/) - A Launch Platform to Get Backlinks & Traffic.
 
 ---
 
