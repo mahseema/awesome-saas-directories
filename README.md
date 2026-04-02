@@ -20,6 +20,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Discover long-tail product submission sites from public alternatives pages such as SaaSHub.
 
 ---
 
