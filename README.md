@@ -12,6 +12,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Capterra](https://www.capterra.com/) - Comprehensive software listing and reviews.
 - [GetApp](https://www.getapp.com/) - Discover and compare software tools.
 - [Trustpilot](https://www.trustpilot.com/) - Collect customer reviews to establish trust.
+* [Launched](https://launched.deskio.org) – Merit-based product discovery platform for indie makers. No algorithm, no paid placement, 30-second submission. Free forever.
 
 ---
 
