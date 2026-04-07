@@ -63,6 +63,8 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Simple.ink](https://simple.ink/) - A directory for no-code SaaS builders.
 - [API List](https://apilist.fun/) - Public APIs for developers.
 - [Remote Tools](https://remote.tools/) - SaaS tools for remote work.
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, email + LinkedIn campaigns, conversations. JSON output, agent-native.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.
 
 ---
 
