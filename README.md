@@ -44,6 +44,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
 - [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+- [Not Human Search](https://nothumansearch.ai/submit) - Agent-first AI tool directory. Ranks submitted products by *agentic readiness* (llms.txt, OpenAPI, MCP, ai-plugin, structured API). Free to submit, no account.
 
 
 ---
