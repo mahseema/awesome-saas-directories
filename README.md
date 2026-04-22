@@ -17,6 +17,7 @@ A curated list of top best directories and platforms to launch and promote your 
 
 ## 🏅 Specialized SaaS Directories
 - [SaaSHub](https://www.saashub.com/) - Independent SaaS marketplace.
+- [Saiten-kun](https://saiten-kun.com) - AI-powered website audit in 60 seconds (SEO, UX, conversion diagnostics).
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
@@ -41,6 +42,8 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 
 - [Altern](https://altern.ai) - Find almost anything related to AI
 - [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
+- [Free AI Tools JP](https://free-ai-tools.jp) - 63 free AI tools for Japanese users, no signup required.
+- [Free Tegami Tools JP](https://free-tegami-tools.jp) - 65 AI tools for Japanese ceremonial and business writing (speeches, eulogies, letters).
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
 - [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
@@ -58,6 +61,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 ---
 
 ## 🛠️ Tools and No-Code Directories
+- [Free Marketing Tools JP](https://free-marketing-tools.jp) - 50 free AI-powered marketing tools for SMBs (LP analysis, SEO audit, ad copy generator).
 - [MakerPad](https://www.makerpad.co/) - No-code tools and SaaS integrations.
 - [NoCode List](https://www.nocode.tech/) - Resources and tools for no-code solutions.
 - [Simple.ink](https://simple.ink/) - A directory for no-code SaaS builders.
