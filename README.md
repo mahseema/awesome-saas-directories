@@ -32,6 +32,11 @@ A curated list of top best directories and platforms to launch and promote your 
 - [SideProjectors](https://www.sideprojectors.com/) - A hub for SaaS side projects.
 - [IndieProducts.io](https://www.indieproducts.io/) - A directory for Indie products, Solopreneurs and Buildinpublic makers.
 - [PeerPush](https://peerpush.net/) - Build in Public, Discover & Share Innovative Products
+- [Aura++](https://auraplusplus.com) – A platform for showcasing and discovering innovative digital products and indie projects.
+- [IndieHunt](https://indiehunt.io) – Discover and promote indie-made products, tools, and side projects.
+- [EarlyHunt](https://earlyhunt.com) – A launch platform focused on early-stage startups and getting initial traction.
+- [MakerHunt](https://makerhunt.io) – A curated space for makers to launch and explore new products.
+- [SideHunt](https://sidehunt.io) – A discovery platform for side projects and indie hacker creations.
 
 ---
 
