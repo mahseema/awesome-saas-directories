@@ -63,6 +63,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Simple.ink](https://simple.ink/) - A directory for no-code SaaS builders.
 - [API List](https://apilist.fun/) - Public APIs for developers.
 - [Remote Tools](https://remote.tools/) - SaaS tools for remote work.
+- [Related Repos](https://relatedrepos.com/) - Discover related open source projects.
 
 ---
 
