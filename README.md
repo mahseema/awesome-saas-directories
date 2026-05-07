@@ -45,7 +45,6 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
 - [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
-
 ---
 
 ## 💡 Deal and Promo Platforms
@@ -63,6 +62,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Simple.ink](https://simple.ink/) - A directory for no-code SaaS builders.
 - [API List](https://apilist.fun/) - Public APIs for developers.
 - [Remote Tools](https://remote.tools/) - SaaS tools for remote work.
+- [Revuo.AI](https://www.revuo.ai) - B2B SaaS for Agents. Capability-structured. Continuously verified. Agent-callable.
 
 ---
 
