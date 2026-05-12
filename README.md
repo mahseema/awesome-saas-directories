@@ -14,6 +14,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Trustpilot](https://www.trustpilot.com/) - Collect customer reviews to establish trust.
 
 ---
+- [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
 
 ## 🏅 Specialized SaaS Directories
 - [SaaSHub](https://www.saashub.com/) - Independent SaaS marketplace.
