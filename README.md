@@ -20,6 +20,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
+- [The Integrity Framework Directory](https://theintegrityframework.org/listings) - Listings of sub-enterprise SaaS that self-map against a public trust framework (INTEGRITY.md). Free, CC BY 4.0.
 
 ---
 
