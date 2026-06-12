@@ -87,6 +87,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 ## 🌐 Global SaaS Directories
 - [Clutch.co](https://clutch.co/) - B2B reviews and comparisons.
 - [GoodFirms](https://www.goodfirms.co/) - Directory for top SaaS providers.
+- [Pick an Agency](https://www.pickanagency.com/) - Free directory of 129,000+ marketing agencies, searchable by service and location.
 - [Software Suggest](https://www.softwaresuggest.com/) - Promote software solutions globally.
 - [CrozDesk](https://crozdesk.com/) - SaaS reviews and rankings.
 - [SaaS Genius](https://saasgenius.com/) - Discover and compare SaaS tools.
