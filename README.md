@@ -110,3 +110,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 
 ### Contributions Welcome!
 Have more platforms to add? Feel free to suggest or contribute to make this list even more **awesome**! 🚀
+
+## Directories
+
+- [Toolquix](https://toolquix.com) - A curated directory of tools, software, and digital resources.
