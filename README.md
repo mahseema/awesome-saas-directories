@@ -22,6 +22,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for growth teams, campaigns, segmentation, and customer journeys.
 
 ## 🥳 Startup and Maker Communities
 
