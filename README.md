@@ -1,5 +1,7 @@
 # 🚀 Awesome SaaS Directories 
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 A curated list of top best directories and platforms to launch and promote your SaaS product effectively. Boost visibility, attract users, and grow your brand!  
 
 ---
