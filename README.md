@@ -98,6 +98,12 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 ## ⚙️ Business Operations SaaS Directories
 - [PlatformsDirectory.com](https://www.platformsdirectory.com/) - List and review cross-platform apps, tools, and software designed to bring business online, enhance and streamline operations.
 
+## 💡 Idea Research & Market Validation
+- [50 Validated Micro-SaaS Ideas (2026)](https://davidames0523.github.io/microsaas-ideas/) - Data-backed niches with real revenue data, competition analysis, and build estimates. PDF + CSV. $1.
+- [StartupIdeasDB](https://startupideasdb.com/) - 12,000+ validated problems from Reddit, Upwork, and app store reviews.
+- [NicheCheck](https://nichecheck.com/) - Micro-SaaS ideas with market size and competition analysis.
+- [IdeaProof](https://ideaproof.io/) - 50 free micro-SaaS ideas with revenue data.
+
 ## 🎉 Bonus Platforms
 - [Startup Stash](https://startupstash.com/) - Curated tools and resources for startups.
 - [BetaPage](https://betapage.co/) - Startup discovery platform.
