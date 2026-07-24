@@ -43,6 +43,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
+- [Stack Insider](https://stack-insider.com) - Evaluates SaaS tools on AI Readiness — MCP servers, OKF bundles, cross-platform skills, API access, and docs quality.
 - [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
 
