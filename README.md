@@ -44,6 +44,8 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
 - [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+- [Verdict](https://verdict.tools) - Registry tracking the live status of AI and SaaS tools, with dated shutdowns, sunsets, and decline signals.
+
 
 
 ---
