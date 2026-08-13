@@ -105,6 +105,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [AppRadar](https://appradar.com/) - SaaS tools for app marketing.
 - [BuiltWith](https://builtwith.com/) - Discover SaaS products used by websites.
 - [ConfettiSaaS](https://confettisaas.com/) - Discover Projects that Sparkle with Confetti
+- [DEUS Store](https://negozio.mooo.com/?src=mahseema-awesome-saas-directories) - Tested n8n automation workflows, ready to import, USDC/SOL payment with instant delivery.
 
 ---
 
