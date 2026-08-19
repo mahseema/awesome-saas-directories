@@ -12,6 +12,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Capterra](https://www.capterra.com/) - Comprehensive software listing and reviews.
 - [GetApp](https://www.getapp.com/) - Discover and compare software tools.
 - [Trustpilot](https://www.trustpilot.com/) - Collect customer reviews to establish trust.
+- [Launchory](https://www.launchory.app) - Startup directory with free badge-verified dofollow listings and $10 one-time premium.
 
 ---
 
