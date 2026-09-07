@@ -17,6 +17,7 @@ A curated list of top best directories and platforms to launch and promote your 
 
 ## 🏅 Specialized SaaS Directories
 - [SaaSHub](https://www.saashub.com/) - Independent SaaS marketplace.
+- [directree](https://www.directree.io/) - Founder-verified SaaS directory. Free listing, dofollow link for verified founders, every fact labelled by source, no paid placement.
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
