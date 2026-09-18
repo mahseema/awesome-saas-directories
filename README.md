@@ -63,6 +63,8 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Simple.ink](https://simple.ink/) - A directory for no-code SaaS builders.
 - [API List](https://apilist.fun/) - Public APIs for developers.
 - [Remote Tools](https://remote.tools/) - SaaS tools for remote work.
+- [SaaS Launch Directory Explorer](https://themerchcog.github.io/saas-launch-directories-2026/) - Interactive client-side directory explorer and DoFollow backlink verification toolkit.
+
 
 ---
 
