@@ -104,6 +104,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [All Top Startups](https://alltopstartups.com/) - Resources for young entrepreneurs.
 - [AppRadar](https://appradar.com/) - SaaS tools for app marketing.
 - [BuiltWith](https://builtwith.com/) - Discover SaaS products used by websites.
+- [Leakly](https://leakly.ai/) - AI-powered conversion audit that finds revenue leaks on your website and prioritizes what to fix.
 - [ConfettiSaaS](https://confettisaas.com/) - Discover Projects that Sparkle with Confetti
 
 ---
