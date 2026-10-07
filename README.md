@@ -20,6 +20,10 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
+- [AZN8](https://azn8.com/) - Free SaaS, startup, and AI tools directory oriented to makers and AI agents.
+- [CurlShip](https://curlship.com/) - Free product directory with a simple listing tier.
+- [DevElif](https://develif.com/) - Free developer/SaaS product showcase directory.
+- [ToolIndex](https://strategic-flow-audit.replit.app/directory) - Free U.S. SaaS/tool directory with instant listings and dofollow backlinks.
 
 ---
 
@@ -34,6 +38,8 @@ A curated list of top best directories and platforms to launch and promote your 
 - [PeerPush](https://peerpush.net/) - Build in Public, Discover & Share Innovative Products
 
 ---
+- [Share Your Startup](https://shareyourstartup.com/) - Free no-account board to post a name, URL, and one-line pitch (nofollow).
+- [LaunchFree](https://launchfree.io/) - Free product launch directory (review queue; no credit card).
 
 ## 🤖 AI Directories
 
