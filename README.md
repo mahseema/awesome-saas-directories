@@ -105,6 +105,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [AppRadar](https://appradar.com/) - SaaS tools for app marketing.
 - [BuiltWith](https://builtwith.com/) - Discover SaaS products used by websites.
 - [ConfettiSaaS](https://confettisaas.com/) - Discover Projects that Sparkle with Confetti
+- [TeleTraff](https://teletraff.com/en) - Web panel for promoting a SaaS in Telegram: AI comments in topic channels, audience parsing, account and proxy management.
 
 ---
 
