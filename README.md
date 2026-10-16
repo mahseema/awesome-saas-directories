@@ -44,6 +44,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
 - [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
+- [Public Prompts](https://www.publicprompts.art/) - AI tools directory with paid, editorially reviewed owner submissions (US$19.99 once plus tax).
 
 
 ---
