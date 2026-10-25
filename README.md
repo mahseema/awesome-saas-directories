@@ -32,6 +32,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [SideProjectors](https://www.sideprojectors.com/) - A hub for SaaS side projects.
 - [IndieProducts.io](https://www.indieproducts.io/) - A directory for Indie products, Solopreneurs and Buildinpublic makers.
 - [PeerPush](https://peerpush.net/) - Build in Public, Discover & Share Innovative Products
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ---
 
