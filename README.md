@@ -47,6 +47,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 
 
 ---
+- [Daily AI Tools](https://dailyaitools.ai/) - Free AI tool listings with tracked pricing and one featured tool a day.
 
 ## 💡 Deal and Promo Platforms
 - [AppSumo](https://appsumo.com/) - SaaS deals and promotions.
