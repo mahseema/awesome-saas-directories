@@ -6,6 +6,7 @@ A curated list of top best directories and platforms to launch and promote your 
 
 ## 🌟 General Launch Platforms
 
+- [FoundrList](https://www.foundrlist.com/) - Weekly launch cohorts for SaaS and AI tools, with a free launch option and a public leaderboard.
 - [Altern](https://altern.ai) - Launch Your AI Tools
 - [Product Hunt](https://www.producthunt.com/) - The go-to platform to launch and discover new products.
 - [G2](https://www.g2.com/) - Software reviews to build credibility and reach businesses.
