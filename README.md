@@ -11,6 +11,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [G2](https://www.g2.com/) - Software reviews to build credibility and reach businesses.
 - [Capterra](https://www.capterra.com/) - Comprehensive software listing and reviews.
 - [GetApp](https://www.getapp.com/) - Discover and compare software tools.
+- [SitePatent](https://sitepatent.com/) - The directory for builders who ship, with launches, alternatives and compare pages.
 - [Trustpilot](https://www.trustpilot.com/) - Collect customer reviews to establish trust.
 
 ---
