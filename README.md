@@ -92,6 +92,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [SaaS Genius](https://saasgenius.com/) - Discover and compare SaaS tools.
 - [Open SaaS Directory](https://opensaas.directory/) - Open source and self-hosted SaaS alternatives.
 - [Software Select](https://softwareselecthq.com/) - Discover SAAS tools.
+- [Siteefy](https://siteefy.com/submit-tool?utm_source=mahseema) - Find and compare the right tools and sites for any task. Submit free with points, or go live at once for $39.
 
 ---
 
