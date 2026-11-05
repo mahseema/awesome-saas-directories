@@ -20,6 +20,8 @@ A curated list of top best directories and platforms to launch and promote your 
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
+- [PWA Directory](https://pwa.directory) - Curated directory of installable Progressive Web Apps.
+- [Boilerplates Directory](https://boilerplates.directory) - Compare SaaS starter kits and boilerplates by stack and features.
 
 ---
 
@@ -63,6 +65,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Simple.ink](https://simple.ink/) - A directory for no-code SaaS builders.
 - [API List](https://apilist.fun/) - Public APIs for developers.
 - [Remote Tools](https://remote.tools/) - SaaS tools for remote work.
+- [WebApps Directory](https://webapps.directory) - Curated directory of web apps that run in the browser.
 
 ---
 
