@@ -92,6 +92,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [SaaS Genius](https://saasgenius.com/) - Discover and compare SaaS tools.
 - [Open SaaS Directory](https://opensaas.directory/) - Open source and self-hosted SaaS alternatives.
 - [Software Select](https://softwareselecthq.com/) - Discover SAAS tools.
+- [Stack Insider](https://stack-insider.com) - AI Readiness Scores + independent reviews and comparisons, LLM-friendly .txt/.md exports and MCP server.
 
 ---
 
