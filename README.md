@@ -18,6 +18,7 @@ A curated list of top best directories and platforms to launch and promote your 
 ## 🏅 Specialized SaaS Directories
 - [SaaSHub](https://www.saashub.com/) - Independent SaaS marketplace.
 - [Zapier Directory](https://zapier.com/apps) - Tools integrated with Zapier.
+- [HubSpot App Marketplace](https://ecosystem.hubspot.com/marketplace/apps) - Directory of certified apps and integrations for HubSpot CRM.
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
 
