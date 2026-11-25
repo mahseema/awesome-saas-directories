@@ -44,6 +44,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
 - [There's an AI](https://theresanai.com) - The best AI Tools Directory
 - [Future Tools](https://futuretools.io) - Stay up-to-date on AI Tools
+- [AI Toolkits](https://aitoolkits.io/) - A curated AI tools directory for creative work and learning, with use cases, pricing, and free-plan limits.
 
 
 ---
@@ -63,6 +64,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Simple.ink](https://simple.ink/) - A directory for no-code SaaS builders.
 - [API List](https://apilist.fun/) - Public APIs for developers.
 - [Remote Tools](https://remote.tools/) - SaaS tools for remote work.
+- [SoFast](https://sofast.dev/) - Discover new websites, useful apps, browser games, and creative tools.
 
 ---
 
